@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <type>SUV</type>
+        <model>RAV4</model>
+        <price currency="USD">25000.00</price>
+        <prices>
+            <price currency="EUR">23000.00</price>
+            <price currency="JPY">2800000.00</price>
+        </prices>
+    </car>
+    <car>
+        <type>Sedan</type>
+        <model>Civic</model>
+        <price currency="USD">22000.00</price>
+        <prices>
+            <price currency="EUR">20000.00</price>
+            <price currency="JPY">2500000.00</price>
+        </prices>
+    </car>
+</cars>
